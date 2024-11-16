@@ -37,4 +37,4 @@
 
 ## Screenshots
 
-![App Screenshot](URL_Screenshot)
+![App Screenshot](https://github.com/Koezingone/AplikasiCekCuacaSederhana/blob/main/img/cekCuaca.gif)
